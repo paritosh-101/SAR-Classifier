@@ -7,7 +7,7 @@ Trained for 15 epochs with batch size = 3.
 
 ## Results
 
-**(true class name)[barren score, grass score, agri score and urban score]**
+**( true class name ) [ barren score, grass score, agri score and urban score ]**
 
 ![barren](Images/barren.png)<br />
 *predicted barren land*<br />
